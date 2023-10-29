@@ -1,3 +1,7 @@
 ![algorythmTTV's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=algorythmTTV)
-
-![laptop](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+<p align="center">
+    <img src="[http://material-bread.org/logo-shadow.svg](https://github-readme-streak-stats.herokuapp.com/?user=algorythmTTV)" alt="my laptop">
+</p>
+<p align="center">
+    <img src="http://material-bread.org/logo-shadow.svg" alt="my laptop">
+</p>
