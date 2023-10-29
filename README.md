@@ -1,4 +1,3 @@
-![algorythmTTV's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=algorythmTTV)
 <p align="center">
     <img width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=algorythmTTV" alt="streak">
 </p>
